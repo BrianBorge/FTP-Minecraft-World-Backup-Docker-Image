@@ -1,0 +1,7 @@
+version: '3'
+services:
+  backup:
+    build: .
+    image: bborge/ftp-minecraft-world-backup:latest
+    env_file:
+      - .env
