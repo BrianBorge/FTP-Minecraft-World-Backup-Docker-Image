@@ -1,6 +1,6 @@
 # FTP Minecraft World Backup Docker Image
 
-[![Docker](https://img.shields.io/docker/pulls/bborge/ftp-minecraft-world-backup.svg)](https://hub.docker.com/r/bborge/ftp-minecraft-world-backup/) [![Docker](https://img.shields.io/docker/stars/bborge/ftp-minecraft-world-backup.svg)](https://hub.docker.com/r/bborge/ftp-minecraft-world-backup/) [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/BrianBorge/FTP-Minecraft-World-Backup-Docker-Image/blob/master/LICENSE.md) [![GitHub issues](https://img.shields.io/github/issues/bborge/ftp-minecraft-world-backup.svg)](https://github.com/bborge/ftp-minecraft-world-backup/issues)
+[![Docker](https://img.shields.io/docker/pulls/bborge/ftp-minecraft-world-backup.svg)](https://hub.docker.com/r/bborge/ftp-minecraft-world-backup/) [![Docker](https://img.shields.io/docker/stars/bborge/ftp-minecraft-world-backup.svg)](https://hub.docker.com/r/bborge/ftp-minecraft-world-backup/) [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/BrianBorge/FTP-Minecraft-World-Backup-Docker-Image/blob/master/LICENSE.md) [![GitHub issues](https://img.shields.io/github/issues/brianborge/FTP-Minecraft-World-Backup-Docker-Image.svg)](https://github.com/BrianBorge/FTP-Minecraft-World-Backup-Docker-Image/issues)
 
 [Docker image](https://cloud.docker.com/repository/docker/bborge/ftp-minecraft-world-backup) to create a backups of a Java Edition Minecraft world living on an FTP server somewhere.
 
